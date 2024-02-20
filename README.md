@@ -22,7 +22,7 @@ data = datasets.load_dataset('MBZUAI/ArabicMMLU')
 ## Statistics
 
 The data construction process involved a total of 10 Arabic native speakers from different countries: 6 internal workers (1 Jordanian, 1 Egyptian, 1 Lebanese, 1 from UAE, and 2 from KSA) and 4 external workers (3 Jordanian and 1 Egyptian).
-The resulting corpus is sourced from the seven countries, with Jordan, Egypt, and Palestine being the top three sources.
+The resulting corpus is sourced from the eight countries, with Jordan, Egypt, and Palestine being the top three sources.
 We categorize the collected questions into different subject areas, including: (1) STEM (Science, Technology, Engineering, and Mathematics); (2) Social Science; (3) Humanities; (4) Arabic Language; and (5) Others. 
 
 <p align="left"> <img src="https://github.com/fajri91/eval_picts/blob/master/ArabicMMLU-country.png?raw=true" style="width: 45%;" id="title-icon">       </p>
