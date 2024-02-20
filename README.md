@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://raw.githubusercontent.com/fajri91/eval_picts/master/ArabicMMLU-Bar.png" style="width: 100%;" id="title-icon">  </p>
-<p align="left"> <i>Fajri Koto, Haonan Li, Sara Shatanawi, Jad Doughman, Abdelrahman Boda Sadallah, Aisha Alraeesi, Khalid Almubarak, Zaid Alyafeai, Neha Sengupta, Shady Shehata, Nizar Habash, Preslav Nakov, and Timothy Baldwin </i></p>
+<p align="left"> <i>Fajri Koto, Haonan Li, Sara Shatnawi, Jad Doughman, Abdelrahman Boda Sadallah, Aisha Alraeesi, Khalid Almubarak, Zaid Alyafeai, Neha Sengupta, Shady Shehata, Nizar Habash, Preslav Nakov, and Timothy Baldwin </i></p>
 
 <h4 align="left">
     MBZUAI, Prince Sattam bin Abdulaziz University, KFUPM, Core42, NYU Abu Dhabi, The University of Melbourne
