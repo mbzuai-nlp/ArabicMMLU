@@ -5,6 +5,13 @@
     MBZUAI, Prince Sattam bin Abdulaziz University, KFUPM, Core42, NYU Abu Dhabi, The University of Melbourne
 </h4>
 
+---
+
+### :fire: News
+<!---
+-->
+* **[2024-02.21]** The preprint of our paper can be found [here](https://arxiv.org/abs/2402.12840).
+
 ## Introduction
 
 We present ArabicMMLU, the first multi-task language understanding benchmark for Arabic language, sourced from school exams across diverse educational levels in different countries spanning North Africa, the Levant, and the Gulf regions. Our data comprises 40 tasks and 14,575 multiple-choice questions in Modern Standard Arabic (MSA), and is carefully constructed by collaborating with native speakers in the region. 
@@ -62,6 +69,7 @@ The code for the evaluation of each model we used is in `evaluate.py`, and the c
 @misc{koto2024arabicmmlu,
     title={"ArabicMMLU: Assessing Massive Multitask Language Understanding in Arabic"},
     author={"Fajri Koto and Haonan Li and Sara Shatanawi and Jad Doughman and Abdelrahman Boda Sadallah and Aisha Alraeesi and Khalid Almubarak and Zaid Alyafeai and Neha Sengupta and Shady Shehata and Nizar Habash and Preslav Nakov and Timothy Baldwin"},
+    eprint={"2402.12840"},
     year={"2024"},
     archivePrefix={arXiv},
     primaryClass={cs.CL}
