@@ -113,7 +113,7 @@ def prepare_data_ar(args):
     inputs = []
     outputs = []
     outputs_options = []
-    data = pd.read_csv('ArabicMMLU.csv')
+    data = pd.read_csv('data/ArabicMMLU.csv')
     data = data[data['is_few_shot'] == 0]
 
     for idx, row in data.iterrows():
