@@ -12,9 +12,9 @@ level_en = {
 }
 
 level_ar = {
-    'Primary': 'للمدرسة الابتدائية',
-    'Middle': 'للمدرسة المتوسطة',
-    'High': 'للمدرسة الثانوية',
+    'Primary': 'للمرحلة الابتدائية',
+    'Middle': 'للمرحلة المتوسطة',
+    'High': 'للمرحلة الثانوية',
     'Univ': 'للجامعات',
     'Prof': 'للمحترفين'
 }
@@ -31,27 +31,27 @@ country_ar = {
 }
 
 subject_ar = {
-    'Islamic Studies': 'دراسة إسلامية',
+    'Islamic Studies': 'في الدراسات الإسلامية',
     'Driving Test': 'اختبار القيادة', 
     'Natural Science': 'في العلوم الطبيعية',
-    'History': 'تاريخي',
-    'General Knowledge': 'معرفي عام',
-    'Law': 'قانوني', 
-    'Physics': 'فيزياء', 
+    'History': 'في التاريخ',
+    'General Knowledge': 'في المعلومات العامة',
+    'Law': 'في القانون', 
+    'Physics': 'في الفيزياء', 
     'Social Science': 'في العلوم الاجتماعية',
-    'Management': 'تسييري', 
-    'Arabic Language': 'باللغة العربية',
+    'Management': 'في الإدارة', 
+    'Arabic Language': 'في اللغة العربية',
     'Political Science': ' في العلوم السياسية', 
-    'Philosophy': ' فلسفي',
-    'Accounting': 'محاسبي',
+    'Philosophy': 'في الفلسفة',
+    'Accounting': 'في المحاسبة',
     'Computer Science': 'في علوم الحاسوب',
-    'Geography': 'جغرافيا',
-    'Math': 'رياضي',
+    'Geography': 'في الجغرافيا',
+    'Math': 'في الرياضيات',
     'Biology': 'في علم الأحياء',
-    'Economics': 'اقتصادي موجه',
+    'Economics': 'في الاقتصاد',
     'Arabic Language (General)': 'في اللغة العربية (عام)',
-    'Arabic Language (Grammar)': 'في اللغة العربية (قواعد)',
-    'Civics': 'التربية المدنية',
+    'Arabic Language (Grammar)': 'في اللغة العربية (قواعد النحو)',
+    'Civics': 'في التربية المدنية',
 }
 
 alpa_ar = ['أ-',
