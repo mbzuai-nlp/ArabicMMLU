@@ -58,7 +58,7 @@ alpa_ar = ['أ-',
            'ب-',
            'ج-',
            'د-', 
-           'و-']
+           'ه-']
 
 
 def prepare_data_en(args):
