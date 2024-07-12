@@ -11,6 +11,7 @@
 <!---
 -->
 * **[2024-02.21]** The preprint of our paper can be found [here](https://arxiv.org/abs/2402.12840).
+* **[2024-06.16]** ArabicMMLU has been accepted at ACL 2024.
 
 ## Introduction
 
@@ -66,13 +67,11 @@ The code for the evaluation of each model we used is in `evaluate.py`, and the c
 
 ## Citation
 ```
-@misc{koto2024arabicmmlu,
-    title={"ArabicMMLU: Assessing Massive Multitask Language Understanding in Arabic"},
-    author={"Fajri Koto and Haonan Li and Sara Shatanawi and Jad Doughman and Abdelrahman Boda Sadallah and Aisha Alraeesi and Khalid Almubarak and Zaid Alyafeai and Neha Sengupta and Shady Shehata and Nizar Habash and Preslav Nakov and Timothy Baldwin"},
-    eprint={"2402.12840"},
-    year={"2024"},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{koto2024arabicmmlu,
+  title={ArabicMMLU: Assessing Massive Multitask Language Understanding in Arabic},
+  author={"Fajri Koto and Haonan Li and Sara Shatanawi and Jad Doughman and Abdelrahman Boda Sadallah and Aisha Alraeesi and Khalid Almubarak and Zaid Alyafeai and Neha Sengupta and Shady Shehata and Nizar Habash and Preslav Nakov and Timothy Baldwin"},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2024},
+  year={2024}
 }
 ```
 
