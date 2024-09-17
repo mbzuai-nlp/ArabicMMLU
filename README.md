@@ -24,7 +24,7 @@ The dataset can be accessed in [data](data) folder, and [Hugging Face](https://h
 
 ```
 import datasets
-data = datasets.load_dataset('MBZUAI/ArabicMMLU')
+data = datasets.load_dataset('MBZUAI/ArabicMMLU', 'All')
 ```
 
 ## Statistics
